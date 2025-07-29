@@ -19,9 +19,6 @@ Adding a simple AI to the Tic-Tac-Toe Game:
 - Optimal Tic Tac Toe Moves
 
 
-![tic_tac_toe](https://user-images.githubusercontent.com/61280281/91558896-ba479700-e954-11ea-8415-3759e555ad23.png)
-
-
 ## DEMO:
 #### The board will be printed out every time a player makes a move.
 The board will look like this!
