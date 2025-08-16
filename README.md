@@ -10,7 +10,7 @@ Adding a simple AI to the Tic-Tac-Toe Game:
 - AI vs. AI (*for fun*)
 
 ### To view this project on a live terminal:
-- Click [here.](https://repl.it/github/tusharnankani/Tic-Tac-Toe-AI)
+- Click [here.](https://repl.it/github/Saideepak69/Tic-Tac-Toe-AI)
 - And then, click on <kbd>Run</kbd>!
 
 
